@@ -1,0 +1,43 @@
+html {
+    font-size: 14px; 
+    font-family: Mosaic;
+    background-color: #a3d3ff;
+}
+
+img {
+    border-radius: 8px;
+    width: 350px;
+    display: block;
+    margin: 0 auto;
+}
+
+img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+}
+
+h1 {
+    font-size: 40px;
+    margin: 0 auto;
+    padding: 25px 0 5px;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+    text-align: center;
+}
+
+h2, h3 {
+   text-align: center;
+}
+
+p, li {
+    font-size: 16px;
+    line-height: 1.1;
+    letter-spacing: 1px;
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #FF9500;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+}
